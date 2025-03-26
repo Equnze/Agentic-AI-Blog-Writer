@@ -1,4 +1,6 @@
+<<<<<<< Tabnine <<<<<<<
 from langchain.chains import LLMChain
+>>>>>>> Tabnine >>>>>>># {"conversationId":"da831794-0e7f-4beb-b1ea-a0819ea6dcc4","source":"instruct"}
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 import os
